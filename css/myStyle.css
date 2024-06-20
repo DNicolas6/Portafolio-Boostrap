@@ -1,0 +1,70 @@
+/* Foto de perfiñ */
+#fondo {
+    background-image: url(/assets/img/fondo.png);
+    background-size: cover;
+    background-position: center;
+    height: 40em;
+    margin-top: 56px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+/* Fto de perfil */
+#foto-perfil {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#foto-perfil .rounded-circle {
+    width: 350px;
+    height: 400px;
+}
+
+#info h1{
+    color: white;
+}
+
+#info h2{
+    color: white;
+    
+}
+
+/* Sobre mi */
+#sobre-mi {
+    font-size: 2em;
+    background-color: rgb(255, 255, 255);
+
+}
+
+#sobre-mi-h3 {
+    font-size: 4em;
+}
+
+/* proyectos */
+
+#portafolio-proyectos {
+    background-color: black;
+}
+
+#misproyectos {
+    font-size: 4em;
+    color: white;
+}
+
+/* fondo contacto */
+
+#fondo-contacto{
+    background-image: url(/assets/img/fondo-contacto.png);
+}
+
+/* footer */
+
+footer{
+    background-color: black;
+    height: 2em;
+}
+
+footer p{
+    color: white;
+    text-align: center;
+}
